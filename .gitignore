@@ -1,0 +1,5 @@
+config.py
+__pycache__
+installation.txt
+.cache
+apple_music_songs.json
